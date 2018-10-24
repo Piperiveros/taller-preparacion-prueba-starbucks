@@ -1,0 +1,100 @@
+.navbar-brand{
+	height: 80px;
+}
+
+.navbar-brand__logo{
+	height: 50px;
+	width: 50px;
+}
+
+.navbar-default{
+	border-top: 5px solid #006341;
+	margin-bottom: 0;
+}
+
+.navbar-right{
+	margin-top: 25px;
+}
+
+.header-banner1{
+	background-image: url(assets/images/banner1.jpg);
+	height: 500px;
+	width: 100%;
+	margin-bottom: 10px; 
+}
+
+.header-banner1__container{
+	color: white;
+	background-color: black;
+	opacity: 0.8;
+	border-radius: 5%;
+	margin-top: 100px;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Roboto', sans-serif;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;	
+}
+
+.fas.fa-star{
+	font-size: 30px;
+}
+
+.header-banner__text{
+	margin: 20px 0 0 0;
+}
+
+.btn__button{
+	background-color: transparent;
+	color: white;
+	border-radius: 10px;
+	width: 200px;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+
+.middle-banner{
+	background-image: url(assets/images/stars2.png);
+	height: 500px;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.middle-banner__container{
+	color: white;
+	background-color: black;
+	opacity: 0.8;
+	border-radius: 5%;
+	margin-top: 100px;
+	text-align: center;
+}
+
+.middle-banner__icon{
+	font-size: 30px;
+}
+
+.last-banner{
+	background-image: url(assets/images/beans.png);
+	height: 500px;
+	width: 100%;
+}
+
+.last-banner__container{
+	color: white;
+	background-color: black;
+	opacity: 0.8;
+	border-radius: 5%;
+	margin-top: 100px;
+	text-align: center;
+}
+
+.last-banner__icon{
+	font-size: 30px;
+}
+
+
+
